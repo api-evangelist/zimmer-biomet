@@ -1,7 +1,12 @@
 aid: zimmer-biomet
-url: https://raw.githubusercontent.com/api-evangelist/zimmer-biomet/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/zimmer-biomet/refs/heads/main/apis.yml
 modified: '2026-03-21'
 apis: []
 common:
   - type: Website
     url: https://www.zimmer-biomet.com
+description: >-
+  Zimmer Biomet is a global medical technology company that designs, manufactures,
+  and markets orthopedic reconstructive products, sports medicine, biologics, extremities,
+  trauma products, dental implants, and related surgical products.
