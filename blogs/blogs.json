@@ -3,12 +3,11 @@
   "feeds": [
     {
       "source": "https://hub.zimmerbiomet.com",
-      "feed_url": "",
-      "title": "",
-      "saved": 0,
-      "error": "no_feed"
+      "feed_url": "https://hub.zimmerbiomet.com/index.php?s=20295&pagetemplate=rss",
+      "title": "Zimmer Biomet",
+      "saved": 0
     }
   ],
   "post_count": 5,
-  "fetched": "2026-05-09T20:17:51Z"
+  "fetched": "2026-05-17T20:48:52Z"
 }
