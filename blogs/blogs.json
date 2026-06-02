@@ -2,12 +2,20 @@
   "repo": "zimmer-biomet",
   "feeds": [
     {
-      "source": "https://hub.zimmerbiomet.com",
+      "source": "https://hub.zimmerbiomet.com/index.php?s=20295&pagetemplate=rss",
       "feed_url": "https://hub.zimmerbiomet.com/index.php?s=20295&pagetemplate=rss",
-      "title": "Zimmer Biomet",
-      "saved": 0
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    },
+    {
+      "source": "https://www.zimmerbiomet.com/en/about-us/contact-us.html",
+      "feed_url": "https://www.zimmerbiomet.com/en/about-us/contact-us.html",
+      "title": "",
+      "saved": 0,
+      "method": "none"
     }
   ],
   "post_count": 5,
-  "fetched": "2026-05-17T20:48:52Z"
+  "fetched": "2026-06-01T23:35:02Z"
 }
