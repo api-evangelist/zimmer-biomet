@@ -1,7 +1,9 @@
 ---
 title: Zimmer Biomet Announces Second Quarter 2025 Financial ...
 url: https://investor.zimmerbiomet.com/news-and-events/news/2025/08-07-2025-113110277
-date: '2026-05-25'
+published: '2025-08-07'
+date_basis: url-derived
+harvested: '2026-05-25'
 query: '"Zimmer Biomet Holdings" press release artificial intelligence'
 position: 3
 source: serpapi-google
